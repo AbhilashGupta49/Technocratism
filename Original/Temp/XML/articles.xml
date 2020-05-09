@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<allhalf>
+	<noofarticlestotal>5</noofarticlestotal>
+	<noofarticlesinternet>2</noofarticlesinternet>
+	<noofarticleshardware>2</noofarticleshardware>
+	<noofarticlessoftware>1</noofarticlessoftware>
+	<noofarticlesmiscellaneous>0</noofarticlesmiscellaneous>
+
+	
+	<poll>
+			<pollquestion>The Best Low Budget Phone ?</pollquestion>
+			<polloption1>Xiaomi</polloption1>
+			<polloption1hits>505</polloption1hits>
+			<polloption2>Lenovo</polloption2>
+			<polloption2hits>450</polloption2hits>
+			<polloption3>Micromax</polloption3>
+			<polloption3hits>400</polloption3hits>
+			<polloption4>Asus</polloption4>
+			<polloption4hits>303</polloption4hits>		
+	</poll>
+	
+	
+	
+	
+	
+	
+	<article>
+		<topic>5hello</topic>
+		<category>hardware</category>
+		<hits>0</hits>
+		<half>5Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore mag</half>
+		<quarter>5asdddddddddddddd dddddddddsssssssssssssssssd ddddddddddddddddddddd dddddddddddd dddddddddda</quarter>
+		<full>5Lorem ipsum dolor sit amet, consadasdasdasdasd</full>
+		<imagemain>Pictures/article5.png</imagemain>
+		<articlequestion>asd</articlequestion>
+	</article>	
+	<article>
+		<topic>4hello</topic>
+		<category>internet</category>
+		<hits>0</hits>
+		<half>4Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore mag</half>
+		<quarter>4asdddddddddddddd dddddddddsssssssssssssssssd ddddddddddddddddddddd dddddddddddd dddddddddda</quarter>
+		<full>4Lorem ipsum dolor sit amet, consadasdasdasdasd</full>
+		<imagemain>Pictures/article4.png</imagemain>
+		<articlequestion>dsd</articlequestion>
+	</article>	
+	<article>
+		<topic>3hello</topic>
+        <category>hardware</category>
+		<hits>0</hits>
+		<half>3Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore mag</half>
+		<quarter>3asdddddddddddd dddddddddddddddddddddddd dddddddddddddddddd ddddddddddddddddddd dddddddddddddd dddddddddddddd  ddddddddddddddddddddddddddddddddddd ddddddddddddddddd dddddddddddddddddddddddda</quarter>
+		<full>3Lorem ipsum dolor sit amet, consadasdasdasdasd</full>
+		<imagemain>Pictures/article3.png</imagemain>
+		<articlequestion>ddfd</articlequestion>
+	</article>
+	<article>
+		<topic>2hello</topic>
+		<category>software</category>
+		<hits>0</hits>
+		<half>2Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore mag</half>
+		<quarter>2asdddd ddddddddddddddddddddd dddddddddddddddddd dddddddddddddd dddddddddddddddddddddddddd ddddddddddddddddddddd ddddddddddddddddddddd dddddddddd dddddddddddddddddddddd ddddddddddddddddddddda</quarter>
+		<full>2Lorem ipsum dolor sit amet, consadasdasdasdasd</full>
+		<imagemain>Pictures/article2.png</imagemain>
+		<articlequestion>asds</articlequestion>
+	</article>
+	<article>
+		<topic>1hello</topic>
+		<category>internet</category>
+		<hits>0</hits>
+		<half>1Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore mag</half>
+		<quarter>1asddddddddddd dddddddddddddddddddddd dddddddddddddd ddddddddddddddddd ddddddddddddddddd ddddddddddddddddddddd ddddddddddd ddddddddd dddddddd ddddddddddddddd ddddddd dddddd ddddddddddd ddddddddda</quarter>
+		<full>1Lorem ipsum dolor sit amet, consadasdasdasdasd</full>
+		<imagemain>Pictures/article1.png</imagemain>
+		<articlequestion>sdasd</articlequestion>
+	</article>
+
+	
+	
+</allhalf>

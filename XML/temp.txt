@@ -1,0 +1,26 @@
+	<article>
+		<topic>HTC One E8: Wallet Friendly Version Of A Flagship</topic>
+		<category>miscellaneous</category>
+		<hits>16</hits>
+		<likes>0</likes>
+		<half>Probably the most exclusive and strikingly enhanced transformation of a flagship by HTC. It is being noted as the sibling of metallic M8.</half>
+		<quarter>HTC One E8 has a polycarbonate body which makes it a slightly lighter version of M8. Also, it is quoted as &#x2018;plastic M8&#x2019;, but the sideline is this that E8 is in no way behind the M8 as far as performance is concerned . </quarter>
+		<paramain>Probably the most exclusive and strikingly enhanced transformation of a flagship by HTC. It is being truly noted as the sibling of metallic M8. Apart from the ultrapixel camera which has been replaced in the E8 by a 13MP camera and the polycarbonate body, it is pretty much the same.</paramain>
+		<paras>
+			<fullpara1><![CDATA[<p class="subheadingofarticle">Design:</p> <br/><br/>HTC has always been a design specialist since it mesmerized the world with spectacular front facing dual speakers in it’s One series. Nevertheless it’s sleek and magnetizing body type is also very popular right now.<br/><br/>HTC One E8 has a polycarbonate body which makes it a slightly lighter version of M8. Although, it is quoted as ‘plastic M8’, but the sideline is this, that E8 is in no way behind the M8 as far as performance is concerned.<br/><br/>Repetitive tests show that E8 has been performing identically as the BIG M8, hence HTC here provides with a low price high end phone.<br/><br/>Although, a downside of its body is that it is scratch-prone , but seldom we use a phone without a back cover.]]></fullpara1>
+			<fullpara2><![CDATA[<p class="subheadingofarticle">Camera and Sound:</p><br/><br/>13MP is quiet common figure in today’s mobile phone segment. The other more reliable criteria for the comparison of the camera stength is PPI( pixels per inch). Here, E8 provides a whopping 441ppi which is rather a high camera efficiency compared to the variants with the same megapixel notation. The camera comes with an excellent HDR mode resulting in a wonderful photography experience in certain situations.<br/><br/>Its exclusive Boomsound speakers are an enthralling feature of its design structure. Moreover these front facing speakers add to listening experience to the user. It has become a select design trait for HTC smartphones now.]]></fullpara2>
+			<fullpara3><![CDATA[<p class="subheadingofarticle">Software and Hardware:</p><br/><br/>E8 runs on the 2.5 Ghz quad-core Qualcomm Snapdragon 801 SoC, exactly the as the M8. It is supported by 2GB RAM, 16GB internal storage, expandable upto 128GB through SD card.<br/><br/>It comes with Android 4.4.2 with the latest SENSE 6 UI. Apart from this, HTC Blinkfeed is a salient feature which basically acts as newsreader. Blinkfeed can be customized to stay tuned with facebook, twitter and other social updates.<br/><br/>Software updates has been an issue for HTC. Though, promised to release the Lollipop update within 90 days of the Google release, for E8 it is still hanging on the line.]]></fullpara3>
+			<fullpara4><![CDATA[<p class="subheadingofarticle">User Experience and Battery Life:</p><br/><br/>HTC has perhaps the best UI , enriched with a range of exclusive  inbuilt apps such as FitBit which works with a wearable fitness device to track and analyse your fitness. <br/><br/>Zoe is yet another camera application which has an inbuilt feature to gather images and convert them into a video. The theme and background score of the video are customizable. But this feature is limited upto 16 images only. <br/><br/>Scribble is a note taking app with a striking variety of templates.<br/><br/>As far as longetivity of usage is concerned, the 2600MAh battery works very easily throughout the day with heavy 3G usage. Although E8 has a slightly concerning heating issue at times of regular usage or during charging.<br/><br/>Additionally, the gesture controls are exceptionally handy to use. Double Tap to wake and Swipe features can be an enriching experience for the user. ]]></fullpara4>
+			<fullpara5><![CDATA[<p class="subheadingofarticle">Conclusion:</p><br/><br/>Apart from the fact that it is the replica of a flagship, it is undoubtedly better than other phones of this price range. It is premium phone which is a bit wallet friendly for the features it provides.<br/><br/>So, if you wanna have a premium experience without shelling out huge bucks, you can go for it.]]></fullpara5>
+		</paras>	
+		<imagemain>Pictures/article9.png</imagemain>
+		<subimages>
+			<image1>Pictures/article9a.png</image1>
+			<image2>Pictures/article9b.png</image2>
+			<image3>Pictures/article9c.png</image3>
+			<image4>Pictures/article9d.png</image4>
+			<image5>null</image5>
+		</subimages>
+		<date>12/04/2015</date>
+		<author>Rishabh Yadav</author>
+	</article>

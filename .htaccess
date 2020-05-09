@@ -1,0 +1,4 @@
+RewriteEngine On 
+
+RewriteRule ^Articles/([^/]+)/?$ allarticles.php?pass=$1 [NC,L]
+RewriteRule ^Category/([^/]+)/? category.php [NC,L]
